@@ -1,0 +1,2 @@
+D:\Project VS\DaoMinhHoang-B2\Bai1-Server\bin\Debug\Bai1-Server.exe.config
+C:\Users\Dao Hoang\Desktop\Thuchanh-Buoi5\DaoMinhHoang-B2\Bai1-Server\bin\Debug\Bai1-Server.exe.config
